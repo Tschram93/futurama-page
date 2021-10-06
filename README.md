@@ -1,6 +1,7 @@
 # Futurama
 
-![Image alt Text](relative-path.png)
+![Large Screen display](./assets/fut.JPG)
+![Mobile Display](./assets/fut2.JPG)
             
 ## Link:
 https://tschram93.github.io/futurama-page/
