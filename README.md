@@ -13,7 +13,7 @@ This is a very basic page that the user needs to just resize the browsing window
 The dependency for my app that was used is "There are no require dependencies for using this."
 
 ## Testing
-There are no neccessary tests to be done for this.
+There are no necessary tests to be done for this.
 
 ### License
 none was used for licensing.
